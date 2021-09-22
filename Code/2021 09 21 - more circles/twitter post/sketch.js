@@ -54,7 +54,7 @@ function draw() {
     startX = startX + width * step
     startY = Yscale*(sin(startX/(width/period)*PI)*height)+(offset) 
   }
+  
 }
-
 
 
